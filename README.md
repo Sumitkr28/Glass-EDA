@@ -1,2 +1,2 @@
 # Glass-EDA
-Exploratory Data Analysis (EDA) on the Glass dataset focuses on studying the chemical composition of glass samples to identify patterns and relationships between elements such as refractive index, sodium, magnesium, aluminum, and others.
+Exploratory Data Analysis (EDA) on the Glass dataset focuses on studying the chemical composition of glass samples to identify patterns and relationships between elements such as refractive index, sodium, magnesium, aluminum, and others. The analysis involves handling missing values, examining distributions, and visualizing correlations to understand how different chemical properties influence glass classification.
